@@ -1,0 +1,221 @@
+[Header]
+ProjectFileVersion = "1.1"
+[General]
+Program name = SmartVA-Auto-Analyse
+Program version = 2.14.3
+Windows 2000 = 0
+Windows XP = 0
+Windows Server 2003 = 0
+Windows Vista = 0
+Windows Server 2008 = 0
+Windows 7 = 1
+Windows 8 = 1
+Windows 10 = 1
+Windows Server 2016 = 0
+DoNotCheckOS = 0
+Company name = University of Melbourne
+Website = 
+SFA = 0
+DFA = 0
+Comp = 0
+[Graphics]
+Wizard image = <main>
+Header image = <main>
+Install-icon image = <main>
+Show Label = 1
+Windows style = 1
+XpStyle = 1
+[Files]
+Include Zipfile = 0
+Zipfile = 
+Installation path = C:\<company>\<appname>\
+Autcip = 0
+[Uninstall]
+Vwau = 0
+Website = 
+Include uninstaller = 1
+Uninstaller filename = Uninstall
+[Licence]
+Licence dialog = 1
+[Finish]
+Sart program = 0
+Reboot computer = 1
+Execute DLL: = 0
+Program = <installpath>\
+ProgramArguments = 
+Dll = 
+[Shortcuts]
+Allowtc = 0
+Shortcut path = <company>\<appname>\
+[Serialoptions]
+Allows = 0
+Number = 20
+[SplashScreen]
+Image = 
+Sound = 
+Time = 2
+PlaySound = 0
+Allow = 0
+[Build]
+File = G:\My Drive\boostPC\Customers\Uni Melbourne\SmartVA\Auto-Analyse Tool\Version 2.14 - Colombia Specific\SmartVA-Auto-Analyse-v2.14.3-Installer.exe
+[Updater]
+Allow = 0
+1 = <appname>
+2 = <appversion>
+3 = http://
+4 = http://
+5 = http://
+6 = Update
+Language = 0
+RunProg = 
+RunProgs = 0
+Execdlls = 0
+[Languages]
+3
+4
+[Files/Dirs]
+G:\My Drive\boostPC\Customers\Uni Melbourne\SmartVA\Auto-Analyse Tool\Version 2.14 - Colombia Specific\adb-setup-1.3.exe
+9.1 MB
+exe
+G:\My Drive\boostPC\Customers\Uni Melbourne\SmartVA\Auto-Analyse Tool\Version 2.14 - Colombia Specific\config.txt
+7.4 KB
+txt
+G:\My Drive\boostPC\Customers\Uni Melbourne\SmartVA\Auto-Analyse Tool\Version 2.14 - Colombia Specific\ODK-Briefcase-v1.13.0.jar
+8.8 MB
+jar
+G:\My Drive\boostPC\Customers\Uni Melbourne\SmartVA\Auto-Analyse Tool\Version 2.14 - Colombia Specific\SmartVA-Analyze-cli.exe
+35.7 MB
+exe
+G:\My Drive\boostPC\Customers\Uni Melbourne\SmartVA\Auto-Analyse Tool\Version 2.14 - Colombia Specific\SmartVA-Auto-Analyse-Script v2.14 - English.ps1
+46.1 KB
+ps1
+G:\My Drive\boostPC\Customers\Uni Melbourne\SmartVA\Auto-Analyse Tool\Version 2.14 - Colombia Specific\SmartVA-Auto-Analyse-Script v2.14 - Spanish.ps1
+46.4 KB
+ps1
+G:\My Drive\boostPC\Customers\Uni Melbourne\SmartVA\Auto-Analyse Tool\Version 2.14 - Colombia Specific\SmartVA Auto Analyse User Guide v2.14.docx
+1.1 MB
+docx
+G:\My Drive\boostPC\Customers\Uni Melbourne\SmartVA\Auto-Analyse Tool\Version 2.14 - Colombia Specific\create_shortcut_spanish.ps1
+697 Byte
+ps1
+G:\My Drive\boostPC\Customers\Uni Melbourne\SmartVA\Auto-Analyse Tool\Version 2.14 - Colombia Specific\create_shortcut_english.ps1
+707 Byte
+ps1
+G:\My Drive\boostPC\Customers\Uni Melbourne\SmartVA\Auto-Analyse Tool\Version 2.14 - Colombia Specific\config_english.txt
+7.4 KB
+txt
+G:\My Drive\boostPC\Customers\Uni Melbourne\SmartVA\Auto-Analyse Tool\Version 2.14 - Colombia Specific\check_java_reg.cmd
+191 Byte
+cmd
+G:\My Drive\boostPC\Customers\Uni Melbourne\SmartVA\Auto-Analyse Tool\Version 2.14 - Colombia Specific\check_java_reg.ps1
+776 Byte
+ps1
+G:\My Drive\boostPC\Customers\Uni Melbourne\SmartVA\Auto-Analyse Tool\Version 2.14 - Colombia Specific\create_shortcut_english.cmd
+200 Byte
+cmd
+G:\My Drive\boostPC\Customers\Uni Melbourne\SmartVA\Auto-Analyse Tool\Version 2.14 - Colombia Specific\create_shortcut_spanish.cmd
+200 Byte
+cmd
+G:\My Drive\boostPC\Customers\Uni Melbourne\SmartVA\Auto-Analyse Tool\Version 2.14 - Colombia Specific\rename_old.cmd
+195 Byte
+cmd
+G:\My Drive\boostPC\Customers\Uni Melbourne\SmartVA\Auto-Analyse Tool\Version 2.14 - Colombia Specific\rename_old_SmartVA.ps1
+1.2 KB
+ps1
+[Licence_Begin]
+4843
+{\rtf1\ansi\ansicpg1252\deff0\deflang2057{\fonttbl{\f0\fnil\fcharset0 MS Shell Dlg;}}
+\viewkind4\uc1\pard\b\f0\fs17 End-User License Agreement for SmartVA-Auto-Analyse-Script\b0\par
+\par
+This End-User License Agreement (EULA) is a legal agreement between you (either an individual or a single entity) and the mentioned author (University of Melbourne) of this Software for the software product identified above, which includes computer software and may include associated media, printed materials, and \ldblquote online\rdblquote  or electronic documentation (\ldblquote SOFTWARE PRODUCT\rdblquote ).\par
+\par
+By installing, copying, or otherwise using the SOFTWARE PRODUCT, you agree to be bounded by the terms of this EULA.\par
+If you do not agree to the terms of this EULA, do not install or use the SOFTWARE PRODUCT.\par
+\par
+SOFTWARE PRODUCT LICENSE\par
+a)  SmartVA-Auto-Analyse-Script is being distributed as Freeware for personal, commercial use, non-profit organization, educational purpose. You are NOT allowed to make a charge for distributing this Software (either for profit or merely to recover your media and distribution costs) whether as a stand-alone product, or as part of a compilation or anthology, nor to use it for supporting your business or customers. It may be distributed freely on any website or through any other distribution mechanism, as long as no part of it is changed in any way.\par
+\par
+1. GRANT OF LICENSE. This EULA grants you the following rights: Installation and Use. You may install and use an unlimited number of copies of the SOFTWARE PRODUCT.\par
+\par
+Reproduction and Distribution. You may reproduce and distribute an unlimited number of copies of the SOFTWARE PRODUCT; provided that each copy shall be a true and complete copy, including all copyright and trademark notices, and shall be accompanied by a copy of this EULA.\par
+\par
+Copies of the SOFTWARE PRODUCT may be distributed as a standalone product or included with your own product as long as The SOFTWARE PRODUCT is not sold or included in a product or package that intends to receive benefits through the inclusion of the SOFTWARE PRODUCT.\par
+\par
+The SOFTWARE PRODUCT may be included in any free or non-profit packages or products.\par
+\par
+2. DESCRIPTION OF OTHER RIGHTS AND LIMITATIONS.\par
+Limitations on Reverse Engineering, Decompilation, Disassembly and change (add,delete or modify) the resources in the compiled the assembly. You may not reverse engineer, decompile, or disassemble the SOFTWARE PRODUCT, except and only to the extent that such activity is expressly permitted by applicable law notwithstanding this limitation, or with express permission of University of Melbourne\par
+\par
+Separation of Components.\par
+The SOFTWARE PRODUCT is licensed as a single product. Its component parts may not be separated for use on more than one computer.\par
+\par
+Software Transfer.\par
+You may permanently transfer all of your rights under this EULA, provided the recipient agrees to the terms of this EULA.\par
+\par
+Termination.\par
+Without prejudice to any other rights, the Author of this Software may terminate this EULA if you fail to comply with the terms and conditions of this EULA. In such event, you must destroy all copies of the SOFTWARE PRODUCT and all of its component parts.\par
+\par
+3. COPYRIGHT.\par
+All title and copyrights in and to the SOFTWARE PRODUCT (including but not limited to any images, photographs, clipart, libraries, and examples incorporated into the SOFTWARE PRODUCT), the accompanying printed materials, and any copies of the SOFTWARE PRODUCT are owned by the Author of this Software. The SOFTWARE PRODUCT is protected by copyright laws and international treaty provisions. Therefore, you must treat the SOFTWARE PRODUCT like any other copyrighted material.\par
+\par
+LIMITED WARRANTY\par
+\par
+NO WARRANTIES.\par
+The Author of this Software expressly disclaims any warranty for the SOFTWARE PRODUCT. The SOFTWARE PRODUCT and any related documentation is provided \ldblquote as is\rdblquote  without warranty of any kind, either express or implied, including, without limitation, the implied warranties or merchantability, fitness for a particular purpose, or noninfringement. The entire risk arising out of use or performance of the SOFTWARE PRODUCT remains with you.\par
+\par
+NO LIABILITY FOR DAMAGES.\par
+In no event shall the author of this Software be liable for any special, consequential, incidental or indirect damages whatsoever (including, without limitation, damages for loss of business profits, business interruption, loss of business information, or any other pecuniary loss) arising out of the use of or inability to use this product, even if the Author of this Software is aware of the possibility of such damages and known defects.\par
+}
+ [Licence_End]
+[Registry]
+HKEY_CLASSES_ROOT
+Microsoft.PowerShellScript.1\Shell
+(Default)
+0
+0
+HKEY_CURRENT_USER
+SOFTWARE\Microsoft\PowerShell\1\ShellIds\Microsoft.PowerShell
+ExecutionPolicy
+Unrestricted
+0
+HKEY_LOCAL_MACHINE
+SOFTWARE\Microsoft\PowerShell\1\ShellIds\Microsoft.PowerShell
+ExecutionPolicy
+Unrestricted
+0
+HKEY_USERS
+.DEFAULT\Software\UoM\SmartVA-Auto-Analyse
+InstallFolder
+<installpath>
+1
+HKEY_LOCAL_MACHINE
+Software\JavaSoft\Prefs
+(Default)
+
+0
+[Variables]
+[SCs]
+[IFP_End]
+[Serials]
+[Serials_End]
+[Commands]
+Execute application
+<installpath>\create_shortcut_spanish.cmd
+
+-wait
+Execute application
+<installpath>\create_shortcut_english.cmd
+
+-wait
+Execute application
+<installpath>\rename_old.cmd
+
+-wait
+Execute application
+<installpath>\check_java_reg.cmd
+
+-wait
+Execute application
+<installpath>\adb-setup-1.3.exe
+
+-wait

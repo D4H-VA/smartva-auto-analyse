@@ -1,0 +1,1 @@
+c:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -ExecutionPolicy Unrestricted -NoLogo -NonInteractive -NoProfile -File "c:\University of Melbourne\SmartVA-Auto-Analyse\rename_old_SmartVA.ps1"
